@@ -24,7 +24,7 @@
 #define __USBD_CONF__H__
 
 #ifdef __cplusplus
- extern "C" {
+extern "C" {
 #endif
 
 /* Includes ------------------------------------------------------------------*/
@@ -78,8 +78,8 @@
 
 /****************************************/
 /* #define for FS and HS identification */
-#define DEVICE_FS 		0
-#define DEVICE_HS 		1
+#define DEVICE_FS       0
+#define DEVICE_HS       1
 
 /**
   * @}
